@@ -1,0 +1,23 @@
+
+body{
+	background: #2C2A34;
+}
+
+#title_page{
+	color: orange;
+	text-align: center;
+}
+
+.nav_bar{
+	text-align: center;
+	margin: 2px 10px;
+	background: orange;
+	font-size: 1.2rem;
+}
+
+.title_menu{
+	color: orange;
+}
+
+
+
